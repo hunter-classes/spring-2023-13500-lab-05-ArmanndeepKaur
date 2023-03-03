@@ -5,11 +5,11 @@ int main()
 {
   //Task A
   std::cout<<isDivisibleBy(100, 25)<<"\n";
-	std::cout<<isDivisibleBy(35, 17)<<"\n";
+  std::cout<<isDivisibleBy(35, 17)<<"\n";
 
   //Task B 
   std::cout<<isPrime(7)<<"\n";
-	std::cout<<isPrime(1)<<"\n";
+  std::cout<<isPrime(1)<<"\n";
 
   //Task C
   std::cout<<nextPrime(14)<<"\n";
